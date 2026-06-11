@@ -1,0 +1,53 @@
+{
+  "name": "Alex Applicant",
+  "education_history": [
+    {
+      "degree": "MSc Computer Science",
+      "institution": "University of Technology",
+      "year": 2024
+    },
+    {
+      "degree": "BSc Mathematics",
+      "institution": "State University",
+      "year": 2022
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Large Language Models",
+    "Agentic Workflows",
+    "PyTorch",
+    "Reinforcement Learning"
+  ],
+  "projects": [
+    {
+      "title": "Autonomous Agents for Software Engineering",
+      "description": "Built an agentic framework using LangChain and Gemini to automatically resolve GitHub issues."
+    },
+    {
+      "title": "Evaluating LLM hallucinations",
+      "description": "Developed a metric to measure hallucination rates in instruction-tuned language models."
+    }
+  ],
+  "publications": [
+    {
+      "title": "A Survey of LLM Agents in Software Engineering",
+      "venue": "ArXiv",
+      "year": 2023
+    }
+  ],
+  "research_interests": [
+    "Agentic AI",
+    "Large Language Models",
+    "AI Safety"
+  ],
+  "target_countries": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "target_intake": "Fall 2025",
+  "intro_call_summary": "Alex is deeply interested in building robust agentic systems that can reason over long contexts. They want to focus their PhD on multi-agent systems and alignment.",
+  "raw_resume_text": "Alex Applicant. Objective: To pursue a PhD in Computer Science... Experience: Research Intern at AI Lab..."
+}
