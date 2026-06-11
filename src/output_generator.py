@@ -36,3 +36,22 @@ def generate_output(candidates: List[ProfessorCandidate], output_path: str | Pat
     
     with open(path, 'w', encoding='utf-8') as f:
         f.write(output.model_dump_json(indent=2))
+        
+    # Bonus: Generate CSV
+    csv_path = path.with_suffix('.csv')
+    import csv
+    with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Name", "Institution", "Country", "Match Score", "Tier", "Why Match", "Top Paper Link"])
+        for rec in recommendations:
+            top_paper_link = rec.evidence[0].url if rec.evidence else ""
+            writer.writerow([
+                rec.name, 
+                rec.institution, 
+                rec.country, 
+                rec.match_score, 
+                rec.tier, 
+                rec.why_match, 
+                top_paper_link
+            ])
+    print(f"   Bonus CSV saved to {csv_path}")

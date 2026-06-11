@@ -86,4 +86,9 @@ def build_candidate_pool(interests: dict) -> List[ProfessorCandidate]:
                 if paper_obj.title not in existing_titles:
                     candidate_dict[author_id].recent_papers.append(paper_obj)
                     
+            if len(candidate_dict) > 250:
+                break # Hard cap to prevent hitting API rate limits during downstream processing
+        if len(candidate_dict) > 250:
+            break
+            
     return list(candidate_dict.values())

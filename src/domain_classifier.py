@@ -9,27 +9,33 @@ from src.models import ProfessorCandidate, StudentProfile
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
 
-SLEEP_BETWEEN_CALLS = 2
+SLEEP_BETWEEN_CALLS = 5
 
-@retry(wait=wait_exponential(multiplier=1, min=4, max=10), stop=stop_after_attempt(3))
-def classify_domain(candidate: ProfessorCandidate, profile: StudentProfile) -> float:
+@retry(wait=wait_exponential(multiplier=1, min=5, max=30), stop=stop_after_attempt(5))
+def classify_domain_batch(candidates: List[ProfessorCandidate], profile: StudentProfile) -> dict:
     time.sleep(SLEEP_BETWEEN_CALLS)
     
-    paper_titles = [p.title for p in candidate.recent_papers]
-    
+    batch_data = {}
+    for c in candidates:
+        # Pass up to 3 papers to keep prompt size manageable
+        batch_data[c.openalex_id] = [p.title for p in c.recent_papers[:3]]
+        
     prompt = f"""
     You are a strict academic domain classifier. 
-    Compare the student's research interests with the professor's recent publications.
+    Compare the student's research interests with each professor's recent publications.
     
     Student Interests: {profile.research_interests}
     Student Skills: {profile.skills}
     
-    Professor's Recent Papers: {paper_titles}
+    Professors and their papers: 
+    {json.dumps(batch_data)}
     
     Assess if the professor's work tightly aligns with the student's subfield.
-    Return ONLY a JSON object with this exact structure:
+    Return ONLY a JSON object mapping the professor's ID to their relevance score (float 0.0 to 1.0).
+    Example:
     {{
-        "relevance_score": float # 0.0 to 1.0
+        "https://api.openalex.org/A123": 0.8,
+        "https://api.openalex.org/A456": 0.2
     }}
     Be strict. If the domain is broadly similar but the subfield is wrong, score < 0.5.
     """
@@ -44,23 +50,31 @@ def classify_domain(candidate: ProfessorCandidate, profile: StudentProfile) -> f
     )
     
     try:
-        data = json.loads(response.text)
-        return float(data.get("relevance_score", 0.0))
+        return json.loads(response.text)
     except (json.JSONDecodeError, ValueError):
-        return 0.5
+        return {}
 
 def filter_by_domain(candidates: List[ProfessorCandidate], profile: StudentProfile) -> List[ProfessorCandidate]:
     """
     Filters candidates by domain relevance using Gemini.
+    Uses batching to avoid API rate limits.
     Reject candidates with a score < 0.6.
     """
     relevant_candidates = []
+    batch_size = 40 # Batching 40 candidates per LLM call
     
-    for candidate in candidates:
-        score = classify_domain(candidate, profile)
-        candidate.domain_relevance = score
+    for i in range(0, len(candidates), batch_size):
+        batch = candidates[i:i+batch_size]
+        print(f"      Processing domain batch {i//batch_size + 1}/{(len(candidates)+batch_size-1)//batch_size}...")
         
-        if score >= 0.6:
-            relevant_candidates.append(candidate)
+        scores_dict = classify_domain_batch(batch, profile)
+        
+        for candidate in batch:
+            # Default to 0.5 if LLM fails to return a score for them
+            score = float(scores_dict.get(candidate.openalex_id, 0.5))
+            candidate.domain_relevance = score
             
+            if score >= 0.6:
+                relevant_candidates.append(candidate)
+                
     return relevant_candidates

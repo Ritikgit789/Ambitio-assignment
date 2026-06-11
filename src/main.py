@@ -1,6 +1,7 @@
 import argparse
 import sys
 import os
+from pathlib import Path
 
 # Ensure src module can be found if running from root
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -22,9 +23,15 @@ from src.output_generator import generate_output
 def main():
     parser = argparse.ArgumentParser(description="PhD Shortlist Builder")
     parser.add_argument("--input", required=True, help="Path to input student profile JSON")
-    parser.add_argument("--output", default="sample_output/student_001.json", help="Path to output JSON")
+    parser.add_argument("--output", help="Path to output JSON (defaults to sample_output/<input_filename>)")
     args = parser.parse_args()
 
+    # Determine output path automatically if not provided
+    if not args.output:
+        input_path = Path(args.input)
+        # e.g., data/sample_student.json -> sample_output/sample_student.json
+        args.output = f"sample_output/{input_path.name}"
+        
     print("1. Loading Profile...")
     profile = load_student_profile(args.input)
     
@@ -62,12 +69,12 @@ def main():
     print("10. Tier Generation...")
     candidates = generate_tiers(candidates)
     
-    print("11. Why Match Generation...")
-    candidates = add_why_match(candidates, profile)
-    
-    print("12. Ranking...")
+    print("11. Ranking...")
     candidates = rank_candidates(candidates, top_k=50) # Targeting 50 for max precision
     print(f"   Top {len(candidates)} candidates selected.")
+    
+    print("12. Why Match Generation...")
+    candidates = add_why_match(candidates, profile)
     
     print("13. Generating Output...")
     generate_output(candidates, args.output)

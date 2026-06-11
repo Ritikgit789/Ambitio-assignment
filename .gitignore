@@ -1,3 +1,4 @@
 .env
 .env.example
 sample_output/
+./amenv
