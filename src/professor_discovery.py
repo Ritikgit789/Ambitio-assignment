@@ -44,8 +44,8 @@ def build_candidate_pool(interests: dict) -> List[ProfessorCandidate]:
     # Use a set to avoid duplicates based on OpenAlex ID
     candidate_dict: Dict[str, ProfessorCandidate] = {}
     
-    for query in queries[:3]: # Limit to top 3 queries to avoid too many API calls
-        works = search_works_by_concept(query, limit=20)
+    for query in queries[:5]: # Increased from top 3 to top 5 queries to broaden the net
+        works = search_works_by_concept(query, limit=40) # Increased from 20 to 40 papers per query
         
         for work in works:
             authorships = work.get("authorships", [])
@@ -86,9 +86,9 @@ def build_candidate_pool(interests: dict) -> List[ProfessorCandidate]:
                 if paper_obj.title not in existing_titles:
                     candidate_dict[author_id].recent_papers.append(paper_obj)
                     
-            if len(candidate_dict) > 250:
+            if len(candidate_dict) > 800:
                 break # Hard cap to prevent hitting API rate limits during downstream processing
-        if len(candidate_dict) > 250:
+        if len(candidate_dict) > 800:
             break
             
     return list(candidate_dict.values())
