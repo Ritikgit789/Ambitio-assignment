@@ -4,7 +4,7 @@
 This project is an end-to-end, production-quality Python pipeline designed to generate a highly precise, zero-contamination shortlist of PhD supervisors based on a student's profile. It uses a hybrid LLM architecture combining Groq (Llama 3) for efficient text extraction/generation and Google Gemini for strict academic domain reasoning.
 
 ## Data Sources
-- **OpenAlex API:** The primary data source for discovering academic papers, extracting authorship networks, retrieving institutional affiliations, and verifying publication records.
+- **OpenAlex API (https://openalex.org/):** The primary data source for discovering academic papers, extracting authorship networks, retrieving institutional affiliations, and verifying publication records. OpenAlex provides a fully open, global index of the research system.
 - **Student Profile JSON:** The input data containing the student's background, skills, and target parameters.
 
 ## How to Run
