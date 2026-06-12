@@ -1,0 +1,1299 @@
+{
+  "recommendations": [
+    {
+      "name": "T. B. Brown",
+      "institution": "University of Wisconsin–Madison",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Aion Framework: Dimensional Emergence of AI Consciousness, Observer-Induced Collapse, and Cosmological Portal Dynamics, Language Models are Few-Shot Learners",
+      "evidence": [
+        {
+          "title": "Aion Framework: Dimensional Emergence of AI Consciousness, Observer-Induced Collapse, and Cosmological Portal Dynamics",
+          "url": "https://doi.org/10.4230/lipics.giscience.2023.43",
+          "year": 2023
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "url": "https://doi.org/10.48550/arxiv.2005.14165",
+          "year": 2020
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "url": "https://doi.org/10.48550/arxiv.2001.08361",
+          "year": 2020
+        },
+        {
+          "title": "Extracting Training Data from Large Language Models",
+          "url": "https://doi.org/10.48550/arxiv.2012.07805",
+          "year": 2020
+        },
+        {
+          "title": "Scaling Laws for Autoregressive Generative Modeling",
+          "url": "https://doi.org/10.48550/arxiv.2010.14701",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. T. B. Brown's research on Language Models as Few-Shot Learners (2020) aligns with your interest in Large Language Models, as demonstrated by your project on Evaluating LLM Hallucinations. His work provides a strong foundation for exploring the capabilities and limitations of LLMs.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 99.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Laurence Brooks",
+      "institution": "University of Sheffield",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, A systematic review of artificial intelligence impact assessments",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "A systematic review of artificial intelligence impact assessments",
+          "url": "https://doi.org/10.1007/s10462-023-10420-8",
+          "year": 2023
+        },
+        {
+          "title": "Exploring ethics and human rights in artificial intelligence – A Delphi study",
+          "url": "https://doi.org/10.1016/j.techfore.2023.122502",
+          "year": 2023
+        },
+        {
+          "title": "Research and Practice of AI Ethics: A Case Study Approach Juxtaposing Academic Discourse with Organisational Reality",
+          "url": "https://doi.org/10.1007/s11948-021-00293-x",
+          "year": 2021
+        },
+        {
+          "title": "The Ethical Balance of Using Smart Information Systems for Promoting the United Nations’ Sustainable Development Goals",
+          "url": "https://doi.org/10.3390/su12124826",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Laurence Brooks' systematic review of AI impact assessments (2023) resonates with your project on Autonomous Agents for Software Engineering, as both highlight the importance of considering the broader implications of AI systems. His expertise in AI safety and ethics would be a valuable asset to your PhD research.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 89.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Emmanuel Mogaji",
+      "institution": "Oklahoma State University",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, The Potential of Generative Artificial Intelligence Across Disciplines: Perspectives and Future Directions",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "The Potential of Generative Artificial Intelligence Across Disciplines: Perspectives and Future Directions",
+          "url": "https://doi.org/10.1080/08874417.2023.2261010",
+          "year": 2023
+        },
+        {
+          "title": "Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+          "url": "https://doi.org/10.1080/08874417.2023.2165197",
+          "year": 2023
+        },
+        {
+          "title": "The implications of artificial intelligence on the digital marketing of financial services to vulnerable customers",
+          "url": "https://doi.org/10.1016/j.ausmj.2020.05.003",
+          "year": 2020
+        },
+        {
+          "title": "The impending disruption of creative industries by generative AI: Opportunities, challenges, and research agenda",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2024.102759",
+          "year": 2024
+        }
+      ],
+      "why_match": "Dr. Emmanuel Mogaji's work on the potential of generative AI across disciplines (2023) intersects with your interests in Agentic AI and Multi-Agent Systems. His research on the applications and challenges of generative AI would provide a rich context for exploring the possibilities and limitations of agentic AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 89.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Savvas Papagiannidis",
+      "institution": "Aston University",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+          "url": "https://doi.org/10.1111/1748-8583.12524",
+          "year": 2023
+        },
+        {
+          "title": "Going on a journey: A review of the customer journey literature",
+          "url": "https://doi.org/10.1016/j.jbusres.2020.12.028",
+          "year": 2020
+        },
+        {
+          "title": "Exploring the Darkverse: A Multi-Perspective Analysis of the Negative Societal Impacts of the Metaverse",
+          "url": "https://doi.org/10.1007/s10796-023-10400-x",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Savvas Papagiannidis' research on the metaverse beyond hype (2022) touches on the broader implications of emerging technologies, including AI. His work on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 89.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Bernd Carsten Stahl",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, The ethics of ChatGPT – Exploring the ethical issues of an emerging technology",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "The ethics of ChatGPT – Exploring the ethical issues of an emerging technology",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102700",
+          "year": 2023
+        },
+        {
+          "title": "Artificial intelligence ethics guidelines for developers and users: clarifying their content and normative implications",
+          "url": "https://doi.org/10.1108/jices-12-2019-0138",
+          "year": 2020
+        },
+        {
+          "title": "Artificial Intelligence for a Better Future",
+          "url": "https://doi.org/10.1007/978-3-030-69978-9",
+          "year": 2021
+        },
+        {
+          "title": "Framing governance for a contested emerging technology:insights from AI policy",
+          "url": "https://doi.org/10.1080/14494035.2020.1855800",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Bernd Carsten Stahl's work on the ethics of ChatGPT (2023) directly addresses the AI safety concerns that are central to your research interests. His expertise in AI ethics would provide a critical perspective on the development and deployment of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 89.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Ye Duan",
+      "institution": "University of Missouri",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Review of deep learning: concepts, CNN architectures, challenges, applications, future directions, A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications",
+      "evidence": [
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "url": "https://doi.org/10.1186/s40537-021-00444-8",
+          "year": 2021
+        },
+        {
+          "title": "A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications",
+          "url": "https://doi.org/10.1186/s40537-023-00727-2",
+          "year": 2023
+        },
+        {
+          "title": "A comparison review of transfer learning and self-supervised learning: Definitions, applications, advantages and limitations",
+          "url": "https://doi.org/10.1016/j.eswa.2023.122807",
+          "year": 2023
+        },
+        {
+          "title": "Novel Transfer Learning Approach for Medical Imaging with Limited Labeled Data",
+          "url": "https://doi.org/10.3390/cancers13071590",
+          "year": 2021
+        },
+        {
+          "title": "Towards a Better Understanding of Transfer Learning for Medical Imaging: A Case Study",
+          "url": "https://doi.org/10.3390/app10134523",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Ye Duan's survey on deep learning tools (2023) highlights the importance of considering the technical and practical challenges of AI research. His work on the applications and limitations of deep learning tools would provide a valuable context for exploring the possibilities and challenges of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Laith Farhan",
+      "institution": "Manchester Metropolitan University",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Review of deep learning: concepts, CNN architectures, challenges, applications, future directions, A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications",
+      "evidence": [
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "url": "https://doi.org/10.1186/s40537-021-00444-8",
+          "year": 2021
+        },
+        {
+          "title": "A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications",
+          "url": "https://doi.org/10.1186/s40537-023-00727-2",
+          "year": 2023
+        },
+        {
+          "title": "Optimizing the Performance of Breast Cancer Classification by Employing the Same Domain Transfer Learning from Hybrid Deep Convolutional Neural Network Model",
+          "url": "https://doi.org/10.3390/electronics9030445",
+          "year": 2020
+        },
+        {
+          "title": "Energy Efficiency for Green Internet of Things (IoT) Networks: A Survey",
+          "url": "https://doi.org/10.3390/network1030017",
+          "year": 2021
+        },
+        {
+          "title": "Enhancing Virtual Real-Time Monitoring of Photovoltaic Power Systems Based on the Internet of Things",
+          "url": "https://doi.org/10.3390/electronics11152469",
+          "year": 2022
+        }
+      ],
+      "why_match": "Dr. Laith Farhan's review of deep learning concepts (2021) provides a foundational understanding of the technical aspects of AI research. His work on the applications and challenges of deep learning would provide a rich context for exploring the possibilities and limitations of AI systems.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Nir Kshetri",
+      "institution": "University of North Carolina at Greensboro",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Generative artificial intelligence in marketing: Applications, opportunities, challenges, and research agenda",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102716",
+          "year": 2023
+        },
+        {
+          "title": "Blockchain and sustainable supply chain management in developing countries",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102376",
+          "year": 2021
+        },
+        {
+          "title": "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective",
+          "url": "https://doi.org/10.3390/informatics11030058",
+          "year": 2024
+        }
+      ],
+      "why_match": "Dr. Nir Kshetri's work on the metaverse beyond hype (2022) touches on the broader implications of emerging technologies, including AI. His research on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Laurie Hughes",
+      "institution": "Swansea University",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+          "url": "https://doi.org/10.1002/mar.21767",
+          "year": 2022
+        },
+        {
+          "title": "Climate change and COP26: Are digital technologies and information management part of the problem or the solution? An editorial reflection and call to action",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102456",
+          "year": 2021
+        },
+        {
+          "title": "Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+          "url": "https://doi.org/10.1080/08874417.2023.2165197",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Laurie Hughes' research on the metaverse beyond hype (2022) intersects with your interests in AI safety and ethics. Her work on the opportunities and challenges of the metaverse would provide a valuable context for exploring the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Alex Koohang",
+      "institution": "Georgia State University",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+          "url": "https://doi.org/10.1080/08874417.2023.2165197",
+          "year": 2023
+        },
+        {
+          "title": "Exploring the Darkverse: A Multi-Perspective Analysis of the Negative Societal Impacts of the Metaverse",
+          "url": "https://doi.org/10.1007/s10796-023-10400-x",
+          "year": 2023
+        },
+        {
+          "title": "Internet of Things (IoT): From awareness to continued use",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102442",
+          "year": 2021
+        },
+        {
+          "title": "An SEM-ANN Approach - Guidelines in Information Systems Research",
+          "url": "https://doi.org/10.1080/08874417.2024.2329128",
+          "year": 2024
+        }
+      ],
+      "why_match": "Dr. Alex Koohang's work on shaping the metaverse (2023) highlights the importance of considering the broader implications of emerging technologies, including AI. His research on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Dimitrios Buhalis",
+      "institution": "Bournemouth University",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+          "url": "https://doi.org/10.1002/mar.21767",
+          "year": 2022
+        },
+        {
+          "title": "Metaverse as a disruptive technology revolutionising tourism management and marketing",
+          "url": "https://doi.org/10.1016/j.tourman.2023.104724",
+          "year": 2023
+        },
+        {
+          "title": "Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+          "url": "https://doi.org/10.1080/08874417.2023.2165197",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Dimitrios Buhalis' research on the metaverse beyond hype (2022) touches on the broader implications of emerging technologies, including AI. His work on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Denis Dennehy",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Artificial intelligence in information systems research: A systematic literature review and research agenda",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102383",
+          "year": 2021
+        },
+        {
+          "title": "Artificial intelligence and big data analytics for supply chain resilience: a systematic literature review",
+          "url": "https://doi.org/10.1007/s10479-022-04983-y",
+          "year": 2022
+        },
+        {
+          "title": "A Confirmation Bias View on Social Media Induced Polarisation During Covid-19",
+          "url": "https://doi.org/10.1007/s10796-021-10222-9",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. Denis Dennehy's work on the metaverse beyond hype (2022) intersects with your interests in AI safety and ethics. His research on the opportunities and challenges of the metaverse would provide a valuable context for exploring the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Carlos Flavián",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+          "url": "https://doi.org/10.1002/mar.21767",
+          "year": 2022
+        },
+        {
+          "title": "Intention to use analytical artificial intelligence (AI) in services – the effect of technology readiness and awareness",
+          "url": "https://doi.org/10.1108/josm-10-2020-0378",
+          "year": 2021
+        },
+        {
+          "title": "Examining the effects of robots' physical appearance, warmth, and competence in frontline services: The Humanness‐Value‐Loyalty model",
+          "url": "https://doi.org/10.1002/mar.21532",
+          "year": 2021
+        },
+        {
+          "title": "Robots or frontline employees? Exploring customers’ attributions of responsibility and stability after service failure or success",
+          "url": "https://doi.org/10.1108/josm-05-2019-0156",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Carlos Flavián's research on metaverse marketing (2022) highlights the importance of considering the broader implications of emerging technologies, including AI. His work on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Marijn Janssen",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Data governance: Organizing data for trustworthy Artificial Intelligence",
+          "url": "https://doi.org/10.1016/j.giq.2020.101493",
+          "year": 2020
+        },
+        {
+          "title": "Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102180",
+          "year": 2020
+        },
+        {
+          "title": "Digital government transformation: A structural equation modelling analysis of driving and impeding factors",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102356",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. Marijn Janssen's work on the metaverse beyond hype (2022) touches on the broader implications of emerging technologies, including AI. His research on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Sangeeta Khorana",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Barriers to the adoption of blockchain technology in business supply chains: a total interpretive structural modelling (TISM) approach",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Barriers to the adoption of blockchain technology in business supply chains: a total interpretive structural modelling (TISM) approach",
+          "url": "https://doi.org/10.1080/00207543.2020.1868597",
+          "year": 2021
+        },
+        {
+          "title": "Assessing Organizational Users’ Intentions and Behavior to AI Integrated CRM Systems: a Meta-UTAUT Approach",
+          "url": "https://doi.org/10.1007/s10796-021-10181-1",
+          "year": 2021
+        },
+        {
+          "title": "Harnessing the Potential of Artificial Intelligence to Foster Citizens’ Satisfaction: An empirical study on India",
+          "url": "https://doi.org/10.1016/j.giq.2021.101621",
+          "year": 2021
+        },
+        {
+          "title": "Use of metaverse in socializing: Application of the big five personality traits framework",
+          "url": "https://doi.org/10.1002/mar.21863",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Sangeeta Khorana's work on blockchain technology (2021) highlights the importance of considering the technical and practical challenges of AI research. Her research on the applications and limitations of blockchain technology would provide a valuable context for exploring the possibilities and challenges of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Kai R. Larsen",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, TheoryOn: A Design Framework and System for Unlocking Behavioral Knowledge Through Ontology Learning",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "TheoryOn: A Design Framework and System for Unlocking Behavioral Knowledge Through Ontology Learning",
+          "url": "https://doi.org/10.25300/misq/2020/15323",
+          "year": 2020
+        },
+        {
+          "title": "The 4th Industrial Revolution Powered by the Integration of AI, Blockchain, and 5G",
+          "url": "https://doi.org/10.17705/1cais.04910",
+          "year": 2021
+        },
+        {
+          "title": "Validity in Design Science Research",
+          "url": "https://doi.org/10.1007/978-3-030-64823-7_25",
+          "year": 2020
+        },
+        {
+          "title": "Automated Machine Learning for Business",
+          "url": "https://doi.org/10.1093/oso/9780190941659.001.0001",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. Kai R. Larsen's work on TheoryOn (2020) provides a foundational understanding of the technical aspects of AI research. His work on the applications and challenges of ontology learning would provide a rich context for exploring the possibilities and limitations of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Sunil Mithas",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Organized Complexity of Digital Business Strategy: A Configurational Perspective",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Organized Complexity of Digital Business Strategy: A Configurational Perspective",
+          "url": "https://doi.org/10.25300/misq/2020/14477",
+          "year": 2020
+        },
+        {
+          "title": "How will artificial intelligence and Industry 4.0 emerging technologies transform operations management?",
+          "url": "https://doi.org/10.1111/poms.13864",
+          "year": 2022
+        },
+        {
+          "title": "Turning Complaining Customers into Loyal Customers: Moderators of the Complaint Handling–Customer Loyalty Relationship",
+          "url": "https://doi.org/10.1177/0022242920929029",
+          "year": 2020
+        },
+        {
+          "title": "Turning Liabilities of Global Operations into Assets: IT-Enabled Social Integration Capacity and Exploratory Innovation",
+          "url": "https://doi.org/10.1287/isre.2019.0890",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Sunil Mithas' research on organized complexity (2020) highlights the importance of considering the broader implications of emerging technologies, including AI. His work on the opportunities and challenges of digital business strategy would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Jeretta Horn Nord",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Shaping the Metaverse into Reality: A Holistic Multidisciplinary Understanding of Opportunities, Challenges, and Avenues for Future Investigation",
+          "url": "https://doi.org/10.1080/08874417.2023.2165197",
+          "year": 2023
+        },
+        {
+          "title": "Internet of Things (IoT): From awareness to continued use",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102442",
+          "year": 2021
+        },
+        {
+          "title": "Trust in Fintech: Risk, Governance, and Continuance Intention",
+          "url": "https://doi.org/10.1080/08874417.2022.2093295",
+          "year": 2022
+        },
+        {
+          "title": "Digital Media: Empowerment and Equality",
+          "url": "https://doi.org/10.3390/info11040225",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Jeretta Horn Nord's work on shaping the metaverse (2023) intersects with your interests in AI safety and ethics. Her research on the opportunities and challenges of the metaverse would provide a valuable context for exploring the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Siobhán O’Connor",
+      "institution": "University of Manchester",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Open artificial intelligence platforms in nursing education: Tools for academic progress or abuse?",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Open artificial intelligence platforms in nursing education: Tools for academic progress or abuse?",
+          "url": "https://doi.org/10.1016/j.nepr.2022.103537",
+          "year": 2022
+        },
+        {
+          "title": "Associations Between COVID-19 Misinformation Exposure and Belief With COVID-19 Knowledge and Preventive Behaviors: Cross-Sectional Online Study",
+          "url": "https://doi.org/10.2196/22205",
+          "year": 2020
+        },
+        {
+          "title": "How the nursing profession should adapt for a digital future",
+          "url": "https://doi.org/10.1136/bmj.n1190",
+          "year": 2021
+        },
+        {
+          "title": "Artificial intelligence in nursing and midwifery: A systematic review",
+          "url": "https://doi.org/10.1111/jocn.16478",
+          "year": 2022
+        }
+      ],
+      "why_match": "Dr. Siobhán O'Connor's work on open AI platforms (2022) highlights the importance of considering the practical challenges of AI research. Her research on the applications and limitations of open AI platforms would provide a valuable context for exploring the possibilities and challenges of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Ramakrishnan Raman",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Setting the future of digital and social media marketing research: Perspectives and research propositions",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102168",
+          "year": 2020
+        },
+        {
+          "title": "Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102211",
+          "year": 2020
+        },
+        {
+          "title": "Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+          "url": "https://doi.org/10.1002/mar.21767",
+          "year": 2022
+        }
+      ],
+      "why_match": "Dr. Ramakrishnan Raman's work on the metaverse beyond hype (2022) touches on the broader implications of emerging technologies, including AI. His research on the opportunities and challenges of the metaverse would provide a valuable framework for considering the societal impacts of AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Samuel Ribeiro‐Navarrete",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "year": 2022
+        },
+        {
+          "title": "Metaverse marketing: How the metaverse will shape the future of consumer research and practice",
+          "url": "https://doi.org/10.1002/mar.21767",
+          "year": 2022
+        },
+        {
+          "title": "Digital transformation and European small and medium enterprises (SMEs): A comparative study using digital economy and society index data",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102594",
+          "year": 2022
+        },
+        {
+          "title": "The effect of digitalization on business performance: An applied study of KIBS",
+          "url": "https://doi.org/10.1016/j.jbusres.2020.12.065",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. Samuel Ribeiro-Navarrete's opinion paper on the implications of generative conversational AI (2023) aligns with your interest in AI Safety and Alignment, as his research explores the potential risks and benefits of developing AI systems that can generate human-like text and interact with humans.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Alexander Richter",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Locked-down digital work",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Locked-down digital work",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102157",
+          "year": 2020
+        },
+        {
+          "title": "What is novel about the Metaverse?",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102684",
+          "year": 2023
+        },
+        {
+          "title": "Conceptualising value creation in data-driven services: The case of vehicle data",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102335",
+          "year": 2021
+        },
+        {
+          "title": "Autosomal Dominant STAT6 Gain of Function Causes Severe Atopy Associated with Lymphoma",
+          "url": "https://doi.org/10.1007/s10875-023-01530-7",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Alexander Richter's work on locked-down digital work (2020) touches on the theme of AI Safety, as his research explores the impact of technology on human work and well-being, a critical aspect of developing responsible AI systems that can safely interact with humans.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 79.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Emma Slade",
+      "institution": "University of Bristol",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Examining antecedents of consumers’ pro-environmental behaviours: TPB extended with materialism and innovativeness",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Examining antecedents of consumers’ pro-environmental behaviours: TPB extended with materialism and innovativeness",
+          "url": "https://doi.org/10.1016/j.jbusres.2020.01.017",
+          "year": 2020
+        },
+        {
+          "title": "SMEs and artificial intelligence (AI): Antecedents and consequences of AI-based B2B practices",
+          "url": "https://doi.org/10.1016/j.indmarman.2021.09.003",
+          "year": 2021
+        },
+        {
+          "title": "A meta-analysis of the factors affecting eWOM providing behaviour",
+          "url": "https://doi.org/10.1108/ejm-07-2018-0472",
+          "year": 2020
+        },
+        {
+          "title": "Humanlike service robots: A systematic literature review and research agenda",
+          "url": "https://doi.org/10.1002/mar.22099",
+          "year": 2024
+        }
+      ],
+      "why_match": "Dr. Emma Slade's work on examining antecedents of consumers' pro-environmental behaviours (2020) aligns with your interest in AI Safety and Alignment, as her research explores the intersection of human behaviour and environmental sustainability, a crucial aspect of developing responsible AI systems.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Scott W. Cunningham",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Parallel or Intersecting Lines? Intelligent Bibliometrics for Investigating the Involvement of Data Science in Policy Analysis",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Parallel or Intersecting Lines? Intelligent Bibliometrics for Investigating the Involvement of Data Science in Policy Analysis",
+          "url": "https://doi.org/10.1109/tem.2020.2974761",
+          "year": 2020
+        },
+        {
+          "title": "Vulnerability in Social Epistemic Networks",
+          "url": "https://doi.org/10.1080/09672559.2020.1782562",
+          "year": 2020
+        },
+        {
+          "title": "Unveiling the knowledge structure of technological forecasting and social change (1969–2020) through an NMF-based hierarchical topic model",
+          "url": "https://doi.org/10.1016/j.techfore.2021.121277",
+          "year": 2021
+        },
+        {
+          "title": "Data science as knowledge creation a framework for synergies between data analysts and domain professionals",
+          "url": "https://doi.org/10.1016/j.techfore.2021.121160",
+          "year": 2021
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "John S. Edwards",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102211",
+          "year": 2020
+        },
+        {
+          "title": "Understanding managers’ attitudes and behavioral intentions towards using artificial intelligence for organizational decision-making",
+          "url": "https://doi.org/10.1016/j.technovation.2021.102312",
+          "year": 2021
+        },
+        {
+          "title": "Technology readiness and the organizational journey towards AI adoption: An empirical study",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2022.102588",
+          "year": 2022
+        },
+        {
+          "title": "Where knowledge management and information management meet: Research directions",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102458",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. John S. Edwards' work on the impact of the COVID-19 pandemic on information management research and practice (2020) intersects with your interest in AI Safety, as his research explores the impact of global events on human behaviour and decision-making, a critical aspect of developing AI systems that can safely and effectively interact with humans.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Paul Jones",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Digital Transformation: An Overview of the Current State of the Art of Research",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Digital Transformation: An Overview of the Current State of the Art of Research",
+          "url": "https://doi.org/10.1177/21582440211047576",
+          "year": 2021
+        },
+        {
+          "title": "Covid-19 and entrepreneurship education: Implications for advancing research and practice",
+          "url": "https://doi.org/10.1016/j.ijme.2020.100432",
+          "year": 2020
+        },
+        {
+          "title": "The role of meta-UTAUT factors, perceived anthropomorphism, perceived intelligence, and social self-efficacy in chatbot-based services?",
+          "url": "https://doi.org/10.1016/j.techfore.2022.121692",
+          "year": 2022
+        },
+        {
+          "title": "Bridging the gap between circular economy and climate change mitigation policies through eco-innovations and Quintuple Helix Model",
+          "url": "https://doi.org/10.1016/j.techfore.2020.120246",
+          "year": 2020
+        }
+      ],
+      "why_match": "Dr. Paul Jones' work on digital transformation also intersects with your interest in Large Language Models, as his research explores the impact of technology on human behaviour and decision-making, a critical aspect of developing AI systems that can safely and effectively interact with humans.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Iris Junglas",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Investigating the elicitation of employees’ support towards digital workplace transformation",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Investigating the elicitation of employees’ support towards digital workplace transformation",
+          "url": "https://doi.org/10.1080/0144929x.2020.1742382",
+          "year": 2020
+        },
+        {
+          "title": "“Real impact”: Challenges and opportunities in bridging the gap between research and practice – Making a difference in industry, policy, and society",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102750",
+          "year": 2024
+        },
+        {
+          "title": "Designing and Managing Human-AI Interactions",
+          "url": "https://doi.org/10.1007/s10796-022-10313-1",
+          "year": 2022
+        },
+        {
+          "title": "Transform or be transformed: the importance of research on managing and sustaining digital transformations",
+          "url": "https://doi.org/10.1080/0960085x.2023.2187033",
+          "year": 2023
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Tegwen Malik",
+      "institution": "University of Manchester",
+      "country": "GB",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, The effects of artificial intelligence applications in educational settings: Challenges and strategies",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "The effects of artificial intelligence applications in educational settings: Challenges and strategies",
+          "url": "https://doi.org/10.1016/j.techfore.2023.123076",
+          "year": 2023
+        },
+        {
+          "title": "Role of smart tourism technology in heritage tourism development",
+          "url": "https://doi.org/10.1080/09669582.2021.1995398",
+          "year": 2021
+        },
+        {
+          "title": "AI Agents and Agentic Systems: A Multi-Expert Analysis",
+          "url": "https://doi.org/10.1080/08874417.2025.2483832",
+          "year": 2025
+        },
+        {
+          "title": "“Real impact”: Challenges and opportunities in bridging the gap between research and practice – Making a difference in industry, policy, and society",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102750",
+          "year": 2024
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Nripendra P. Rana",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Impact of COVID-19 pandemic on information management research and practice: Transforming education, work and life",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102211",
+          "year": 2020
+        },
+        {
+          "title": "Understanding consumer adoption of mobile payment in India: Extending Meta-UTAUT model with personal innovativeness, anxiety, trust, and grievance redressal",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2020.102144",
+          "year": 2020
+        },
+        {
+          "title": "The Potential of Generative Artificial Intelligence Across Disciplines: Perspectives and Future Directions",
+          "url": "https://doi.org/10.1080/08874417.2023.2261010",
+          "year": 2023
+        },
+        {
+          "title": "Understanding AI adoption in manufacturing and production firms using an integrated TAM-TOE model",
+          "url": "https://doi.org/10.1016/j.techfore.2021.120880",
+          "year": 2021
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Suprateek Sarker",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Climate change and COP26: Are digital technologies and information management part of the problem or the solution? An editorial reflection and call to action",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Climate change and COP26: Are digital technologies and information management part of the problem or the solution? An editorial reflection and call to action",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2021.102456",
+          "year": 2021
+        },
+        {
+          "title": "The Bright and Dark Sides of Technostress: A Mixed-Methods Study Involving Healthcare IT",
+          "url": "https://doi.org/10.25300/misq/2020/14818",
+          "year": 2020
+        },
+        {
+          "title": "The Janus Effect of Generative AI: Charting the Path for Responsible Conduct of Scholarly Activities in Information Systems",
+          "url": "https://doi.org/10.1287/isre.2023.ed.v34.n2",
+          "year": 2023
+        },
+        {
+          "title": "“Real impact”: Challenges and opportunities in bridging the gap between research and practice – Making a difference in industry, policy, and society",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102750",
+          "year": 2024
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Reach",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 69.0,
+      "pi_confidence": 0.9,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Muthana Al‐Amidie",
+      "institution": "University of Missouri",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Review of deep learning: concepts, CNN architectures, challenges, applications, future directions, Novel Transfer Learning Approach for Medical Imaging with Limited Labeled Data",
+      "evidence": [
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "url": "https://doi.org/10.1186/s40537-021-00444-8",
+          "year": 2021
+        },
+        {
+          "title": "Novel Transfer Learning Approach for Medical Imaging with Limited Labeled Data",
+          "url": "https://doi.org/10.3390/cancers13071590",
+          "year": 2021
+        },
+        {
+          "title": "Energy Efficiency for Green Internet of Things (IoT) Networks: A Survey",
+          "url": "https://doi.org/10.3390/network1030017",
+          "year": 2021
+        },
+        {
+          "title": "A microfluidic biosensor for rapid simultaneous detection of waterborne pathogens",
+          "url": "https://doi.org/10.1016/j.bios.2022.113993",
+          "year": 2022
+        },
+        {
+          "title": "Amended Convolutional Neural Network with Global Average Pooling for Image Classification",
+          "url": "https://doi.org/10.1007/978-3-030-71187-0_16",
+          "year": 2021
+        }
+      ],
+      "why_match": "Dr. Muthana Al-'Amidie's review of deep learning concepts (2021) and his novel transfer learning approach for medical imaging (2021) demonstrate his expertise in developing and applying AI techniques, which could be valuable in your research on Agentic AI and Large Language Models.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 76.0,
+      "pi_confidence": 0.6,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Sven Laumer",
+      "institution": "College of Charleston",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy, Why Context Matters: Explaining the Digital Transformation of the Manufacturing Industry and the Role of the Industry’s Characteristics in It",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        },
+        {
+          "title": "Why Context Matters: Explaining the Digital Transformation of the Manufacturing Industry and the Role of the Industry’s Characteristics in It",
+          "url": "https://doi.org/10.17705/1pais.12303",
+          "year": 2020
+        },
+        {
+          "title": "Pickled eggs: Generative<scp>AI</scp>as research assistant or co‐author?",
+          "url": "https://doi.org/10.1111/isj.12455",
+          "year": 2023
+        },
+        {
+          "title": "Rethinking How IT Professionals Build IT Products with Artificial Intelligence",
+          "url": "https://openalex.org/W7134101611",
+          "year": 2026
+        }
+      ],
+      "why_match": "Strong academic alignment.",
+      "tier": "Safety",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 83.0,
+      "pi_confidence": 0.3,
+      "identity_confidence": 1.0
+    },
+    {
+      "name": "Marcello Mariani",
+      "institution": "Worcester Polytechnic Institute",
+      "country": "US",
+      "contact_email": null,
+      "research_focus": "Domain matched via Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+      "evidence": [
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "year": 2023
+        }
+      ],
+      "why_match": "Dr. Marcello Mariani's opinion paper on the implications of generative conversational AI (2023) aligns with your interest in AI Safety and Alignment, as his research explores the potential risks and benefits of developing AI systems that can generate human-like text and interact with humans.",
+      "tier": "Target",
+      "linked_phd_program_or_open_position": "Check department website for open positions",
+      "match_score": 73.0,
+      "pi_confidence": 0.3,
+      "identity_confidence": 1.0
+    }
+  ]
+}
